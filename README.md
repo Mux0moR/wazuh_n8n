@@ -59,5 +59,6 @@ Wazuh → n8n → Enrichment → Decision Engine → Response
 см. папки проекта
 
 ## 📌 Demo
+<img width="991" height="516" alt="Screenshot From 2026-05-27 15-02-16" src="https://github.com/user-attachments/assets/941844cd-6a49-4c3f-af23-f8a0a9da70e3" />
 
-(скриншоты / gif / лог примера)
+
